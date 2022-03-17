@@ -33,3 +33,9 @@ button {
 label {
   font-weight: 600;
 }
+
+@media screen and (min-width: 600px) {
+  .content {
+    width: 400px;
+  }
+}
