@@ -34,8 +34,8 @@ label {
   font-weight: 600;
 }
 
-@media screen and (min-width: 600px) {
-  .content {
-    width: 400px;
+@media screen and (max-width: 600px) {
+  .card {
+    width: 100%;
   }
 }
